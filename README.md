@@ -1,22 +1,23 @@
-# Hi there, I'm Kisan Mandal 👋 
+# Hi there, I'm Kisan Mandal 👋
 
-### 🚀 About Me
-- 💻 I am a Computer Science student passionate about building smart, practical web applications.
-- ⚡ Currently working on **ChargerHub** (smart EV charging features with vehicle registry validations) and **Pick-Take-Marketplace**.
-- 🛠️ Tech Stack: JavaScript, TypeScript, HTML, CSS, React, and Git.
-- 📫 Connect with me on Instagram: [@_kisan_mandal_](https://www.instagram.com/_kisan_mandal_)
+### 🎓 Academic Background
+- 💻 Currently in the Third Year (TY) of a B.Sc. Computer Science degree program at Christ College, Pune.
 
----
+### 🚀 Projects & Work
+- **ChargerHub**[span_0](start_span)[span_0](end_span) & **Pick-Take-Marketplace**[span_1](start_span)[span_1](end_span)
+- 🌐 Deployed on **Render**[span_2](start_span)[span_2](end_span)
+- 🔗 **Live Links:** [Insert your deployed project links here]
 
-### 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, Java, Python, Node.js, HTML, CSS, JavaScript
+- **Development Environment:** VS Code
+- **Version Control:** Git
+
+### 📱 Connect With Me
+- **Instagram:** [@_kisan_mandal_](https://www.instagram.com/_kisan_mandal_)[span_3](start_span)[span_3](end_span)
+- **LinkedIn / Portfolio:** [Insert your LinkedIn or portfolio links here]
 
 ---
 
 ### 📊 GitHub Stats
-![Kisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisanmandal727-droid&show_icons=true&theme=radial)
+![Kisan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kisanmandal727-droid&show_icons=true&theme=radial)[span_4](start_span)[span_4](end_span)
