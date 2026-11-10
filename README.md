@@ -1,9 +1,8 @@
-<!-- ANIMATED PROFILE HEADER -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301060,100:00D4FF&height=200&section=header&text=Kisan%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Code%20%7C%20Learn%20%7C%20Build&descSize=16&descAlignY=58" width="100%" />
 </p>
 
-<!-- INTRODUCTION -->
 <h2 align="center">👋 Hey there! I'm Kisan Mandal</h2>
 
 <h3 align="center">Aspiring Software Developer | Programming Enthusiast | Tech Explorer</h3>
@@ -14,7 +13,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 I'm a technology enthusiast interested in programming, web development and building real-world applications.
 
@@ -29,21 +28,21 @@ I enjoy experimenting with AI-assisted development, exploring new technologies a
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-**💻 Programming Languages**
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
-**🌐 Web Development**
+### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 </p>
 
-**⚙️ Tools & Platforms Used in My Projects**
+### ⚙️ Tools & Platforms Used in My Projects
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,cloudinary,render" />
@@ -51,54 +50,52 @@ I enjoy experimenting with AI-assisted development, exploring new technologies a
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">🛍️ Pick&Take</h3>
-<p align="center">
-  <strong>Online Community Marketplace</strong>
-</p>
-<p>
+<p align="center"><strong>Online Community Marketplace</strong></p>
+
 A marketplace where users can list items, discover products and connect directly with buyers and sellers.
-</p>
-<ul>
-<li>User registration and authentication</li>
-<li>Create listings with photos</li>
-<li>Browse categories and search</li>
-<li>Favourites and seller profiles</li>
-<li>Private buyer-seller chat</li>
-<li>Reviews and reporting</li>
-<li>Admin moderation and user management</li>
-</ul>
+
+**Key Features:**
+- User registration and authentication
+- Create listings with photos
+- Browse categories and search items
+- Favourites and seller profiles
+- Private buyer-seller chat
+- Reviews and reporting
+- Admin moderation and user management
+
 <p align="center">
   <a href="https://picktake.onrender.com">
     <img src="https://img.shields.io/badge/Live_Demo-8A2BE2?style=for-the-badge&logo=render&logoColor=white" />
   </a>
-  <a href="https://github.com/kisanmandal727-droid?tab=repositories">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://github.com/kisanmandal727-droid/picktake">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 </td>
 
 <td width="50%">
 <h3 align="center">⚡ ChargerHub</h3>
-<p align="center">
-  <strong>EV Charging Platform</strong>
-</p>
-<p>
+<p align="center"><strong>EV Charging Platform</strong></p>
+
 A web-based electric vehicle charging platform designed to make EV charging more accessible and convenient.
-</p>
-<ul>
-<li>EV charging station discovery</li>
-<li>Station details and information</li>
-<li>Charging reservations</li>
-<li>Wallet and credit management</li>
-<li>Trip management</li>
-<li>Saved charging stations</li>
-<li>Vehicle management</li>
-</ul>
+
+**Key Features:**
+- EV charging station discovery
+- Station details and information
+- Charging reservations
+- Wallet and credit management
+- Trip management
+- Saved charging stations
+- Vehicle management
+
 <p align="center">
   <a href="https://github.com/kisanmandal727-droid/ChargerHub">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -110,7 +107,7 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kisanmandal727-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -123,7 +120,7 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisanmandal727-droid&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -131,7 +128,7 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 ---
 
-### 🎯 My Goals
+## 🎯 My Goals
 
 - 📚 Strengthen programming fundamentals.
 - 💻 Improve problem-solving skills.
@@ -142,24 +139,19 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/kisanmandal727-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+  <a href="https://www.instagram.com/_kisan_mandal/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR-X-USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@YOUR-YOUTUBE-CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  💬 Feel free to connect, collaborate and share ideas!
 </p>
 
 ---
