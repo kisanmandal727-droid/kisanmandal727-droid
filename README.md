@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**kisanmandal727-droid/kisanmandal727-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
+- 🔭 Currently working on **[Project Name]**
+- 🎓 Studying **[Degree / Discipline]**
+- 🛠️ Tech Stack: JavaScript, Python, Java, React, Git, VS Code
+- 📫 Reach me: **[LinkedIn URL]** | **[Email]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kisan_mandal_)
