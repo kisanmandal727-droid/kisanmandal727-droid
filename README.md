@@ -1,4 +1,5 @@
- <!-- HEADER BANNER -->
+
+<!-- ================= HEADER BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FF2020&height=200&section=header&text=Kisan%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Code%20%7C%20Learn%20%7C%20Build&descSize=16&descAlignY=58" width="100%" />
 </p>
@@ -114,16 +115,15 @@ A web-based electric vehicle charging platform designed to make EV charging more
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=kisanmandal727-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=kisanmandal727-droid&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged" />
   <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kisanmandal727-droid&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=kisanmandal727-droid&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=kisanmandal727-droid&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" />
 </p>
 
 ---
-
 
 ## 🏆 GitHub Achievements
 
@@ -135,10 +135,13 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 <p align="center">
   <a href="https://github.com/kisanmandal727-droid?tab=achievements">
-    <img src="https://img.shields.io/badge/View_All_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_ALL_ACHIEVEMENTS-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <i>Continuously learning, contributing and earning new achievements!</i>
+</p>
 
 ---
 
@@ -169,7 +172,8 @@ A web-based electric vehicle charging platform designed to make EV charging more
 </p>
 
 ---
- <!-- FOOTER BANNER -->
+
+<!-- ================= FOOTER BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:1A0000&height=120&section=footer" width="100%" />
 </p>
