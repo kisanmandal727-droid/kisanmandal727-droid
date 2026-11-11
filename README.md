@@ -124,17 +124,13 @@ A web-based electric vehicle charging platform designed to make EV charging more
 
 ---
 
-## 📈 Contribution Activity
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/kisanmandal727-droid">
-    <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTIONS-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kisanmandal727-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 </p>
 
-<p align="center">
-  Keep learning, keep building, and keep contributing! 🚀
-</p>
 
 ---
 
