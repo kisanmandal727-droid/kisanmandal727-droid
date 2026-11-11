@@ -165,7 +165,7 @@ A web-based electric vehicle charging platform designed to make EV charging more
 </p>
 
 ---
-
+ <!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:1A0000&height=120&section=footer" width="100%" />
 </p>
