@@ -46,7 +46,7 @@ I enjoy experimenting with AI-assisted development, exploring new technologies a
 ### ⚙️ Tools & Platforms Used in My Projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,cloudinary,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgres,cloudinary,render" />
 </p>
 
 ---
