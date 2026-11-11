@@ -1,6 +1,6 @@
  <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301060,100:00D4FF&height=200&section=header&text=Kisan%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Code%20%7C%20Learn%20%7C%20Build&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FF2020&height=200&section=header&text=Kisan%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Code%20%7C%20Learn%20%7C%20Build&descSize=16&descAlignY=58" width="100%" />
 </p>
 
 <h2 align="center">👋 Hey there! I'm Kisan Mandal</h2>
@@ -167,9 +167,9 @@ A web-based electric vehicle charging platform designed to make EV charging more
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:301060,100:090979&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:1A0000&height=120&section=footer" width="100%" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
-<h4 align="center">💜 Code. Learn. Build. Grow. 🚀</h4>
+<h4 align="center">❤️ Code. Learn. Build. Grow. 🚀</h4>
