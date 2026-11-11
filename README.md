@@ -128,7 +128,15 @@ A web-based electric vehicle charging platform designed to make EV charging more
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kisanmandal727-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  <a href="https://github.com/kisanmandal727-droid?tab=achievements">
+    <img src="https://img.shields.io/badge/YOLO-EARNED-success?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kisanmandal727-droid?tab=achievements">
+    <img src="https://img.shields.io/badge/View_All_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 
