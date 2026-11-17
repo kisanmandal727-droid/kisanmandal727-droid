@@ -59,7 +59,7 @@ I enjoy exploring new technologies, experimenting with AI-assisted development, 
 <p align="center"><strong>EV Charging Platform</strong></p>
 
 <p align="center">
-  A web-based electric vehicle charging platform designed to make EV charging more accessible and convenient.
+A web-based electric vehicle charging platform designed to make EV charging more accessible and convenient.
 </p>
 
 **Key Features**
@@ -88,7 +88,7 @@ I enjoy exploring new technologies, experimenting with AI-assisted development, 
 <p align="center"><strong>Online Community Marketplace</strong></p>
 
 <p align="center">
-  An online marketplace where users can list products, discover items, and connect directly with buyers and sellers.
+An online marketplace where users can list products, discover items, and connect directly with buyers and sellers.
 </p>
 
 **Key Features**
@@ -132,8 +132,17 @@ I enjoy exploring new technologies, experimenting with AI-assisted development, 
 
 <p align="center">
   <a href="https://github.com/kisanmandal727-droid?tab=achievements">
-    <img src="https://img.shields.io/badge/YOLO-EARNED-success?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/PULL_SHARK-EARNED-008B8B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/kisanmandal727-droid?tab=achievements">
+    <img src="https://img.shields.io/badge/QUICKDRAW-EARNED-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/kisanmandal727-droid?tab=achievements">
+    <img src="https://img.shields.io/badge/YOLO-EARNED-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/kisanmandal727-droid?tab=achievements">
     <img src="https://img.shields.io/badge/VIEW_ALL_ACHIEVEMENTS-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -157,6 +166,9 @@ I enjoy exploring new technologies, experimenting with AI-assisted development, 
 <p align="center">
   <a href="https://github.com/kisanmandal727-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kisan-mandal-91189636b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_kisan_mandal_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
