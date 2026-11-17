@@ -167,7 +167,7 @@ An online marketplace where users can list products, discover items, and connect
   <a href="https://github.com/kisanmandal727-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/kisan-mandal-91189636b/">
+  <a href="https://www.linkedin.com/in/kisan-mandal">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_kisan_mandal_/">
