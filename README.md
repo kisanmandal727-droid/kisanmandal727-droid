@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hey there! I'm Kisan Mandal</h2>
 
-<h3 align="center">B.Sc. Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Software Developer | Web Development Enthusiast | B.Sc. Computer Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FF5555&center=true&vCenter=true&width=650&lines=Learning+by+Building+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%E2%9C%A8;Exploring+New+Technologies+%F0%9F%92%BB;Code+%7C+Learn+%7C+Grow" />
